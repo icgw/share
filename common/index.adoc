@@ -1,0 +1,17 @@
+= Hello
+:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js@4.5.0
+:revealjs_theme: solarized
+:source-highlighter: highlight.js
+
+
+== Byebye
+I'm Guowei. Nice to meet you!
+
+[source, cpp]
+----
+int main()
+{
+  std::cout << "Hello!\n";
+  return 0;
+}
+----
